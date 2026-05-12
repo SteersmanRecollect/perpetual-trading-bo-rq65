@@ -1,4 +1,4 @@
-# 
+# vip perpetual trading bot Plugin | isolated-margin + position-sizing is the best perpetual trading bot, featuring isolated-margin and position-sizing. Smart, fast, and optimized
 
 
 
